@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Created Login page and Register Page using React
 
 In the project directory, you can run:
 ### `npm install`
